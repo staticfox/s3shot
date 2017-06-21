@@ -20,7 +20,7 @@ bucket_name: The name of the S3 bucket
 path: The name of the folder that this should be stored in. You can nest directories, but for now, make sure they exist. Also make sure they don't start or stop with a slash.
 visibility: One of the follow:
 ```
-'private'
+ 'private'
  'public-read'
  'public-read-write'
  'authenticated-read'
