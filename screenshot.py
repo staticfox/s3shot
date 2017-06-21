@@ -8,6 +8,7 @@ import boto3
 import pyperclip
 import time
 import toml
+import subprocess
 from subprocess import check_call
 
 class S3Shot(object):
