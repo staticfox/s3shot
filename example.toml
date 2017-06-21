@@ -6,4 +6,3 @@ visibility = "public-read"
 [system]
 image_storage_path = "/home/static/Pictures/"
 want_clipboard = "yes"
-
